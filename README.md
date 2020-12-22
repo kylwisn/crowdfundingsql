@@ -1,2 +1,2 @@
 # crowdfundingsql
-sample database data and queries
+sample database data and queries in SQLite
